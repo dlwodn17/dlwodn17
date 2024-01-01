@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 #### 이재우의 깃허브입니다.
 <a href="https://www.instagram.com/dlwodn_17" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<br>
 <a href="https://dlwodn17.github.io/website2/" target="_blank" rel="noopener noreferrer">My homepage</a>
